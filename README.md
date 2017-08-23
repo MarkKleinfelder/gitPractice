@@ -18,5 +18,9 @@ THIS IS A README!
 
 Mark made a good change to the HTML
 
+<<<<<<< HEAD
 Brett killed a guy...maybe he should lay low for a while.
 
+=======
+STILL A READ ME.
+>>>>>>> 9455c3eb17288e16c055800c4b117bd7266192bd
